@@ -1,0 +1,13 @@
+*
+
+!tmux
+!obsidian
+!kitty
+!.nvim
+!.gitignore
+!.zsh*
+
+!kitty/**
+!tmux/**
+!obsidian/**
+!nvim/**
